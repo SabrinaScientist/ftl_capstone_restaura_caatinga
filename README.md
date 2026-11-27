@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://ftl-brazil-2026.github.io/ebook/course-info/general-info.html">
     <img src="assets/logos_ftl.png" alt="Future Tech Leaders, AEB, SDG AI Lab, ICPSD, UNDP" width="800">
