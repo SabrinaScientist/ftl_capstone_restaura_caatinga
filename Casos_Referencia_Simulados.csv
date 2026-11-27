@@ -1,0 +1,13 @@
+﻿id_caso,ndvi_2025,ndvi_media_historica,ndvi_std_historico,ndvi_tendencia,classe_solo,solucao,tipo_dado,nome_solucao
+IPF01,0.3,0.34,0.05,-0.015,LUVISSOLO,IPF,SINTETICO,Sistema Silvipastoril
+IPF02,0.35,0.38,0.06,-0.012,ARGISSOLO,IPF,SINTETICO,Sistema Silvipastoril
+IPF03,0.28,0.32,0.04,-0.018,NEOSSOLO LITÓLICO,IPF,SINTETICO,Sistema Silvipastoril
+IPF04,0.33,0.36,0.05,-0.01,CAMBISSOLO,IPF,SINTETICO,Sistema Silvipastoril
+ILPF01,0.4,0.43,0.05,-0.008,LUVISSOLO,ILPF,SINTETICO,Sistema Agrossilvipastoril
+ILPF02,0.42,0.45,0.04,-0.01,LATOSSOLO,ILPF,SINTETICO,Sistema Agrossilvipastoril
+ILPF03,0.38,0.41,0.06,-0.012,ARGISSOLO,ILPF,SINTETICO,Sistema Agrossilvipastoril
+ILPF04,0.36,0.4,0.05,-0.015,VERTISSOLO,ILPF,SINTETICO,Sistema Agrossilvipastoril
+RNA01,0.19,0.27,0.08,-0.035,NEOSSOLO LITÓLICO,RNA,SINTETICO,Regeneração Natural Assistida
+RNA02,0.21,0.29,0.09,-0.03,NEOSSOLO QUARTZARÊNICO,RNA,SINTETICO,Regeneração Natural Assistida
+RNA03,0.23,0.3,0.07,-0.028,PLANOSSOLO,RNA,SINTETICO,Regeneração Natural Assistida
+RNA04,0.25,0.33,0.08,-0.025,CAMBISSOLO,RNA,SINTETICO,Regeneração Natural Assistida
