@@ -123,9 +123,7 @@ O processamento foi organizado segundo a metodologia ETL (Extract, Transform, Lo
 
 ### 2. Otimização do processamento geoespacial
 
-Inicialmente, foram utilizadas imagens Sentinel-2 para a caracterização visual da região piloto e para os primeiros experimentos de processamento histórico do NDVI.
-
-Devido ao elevado custo computacional associado ao processamento de cinco anos de imagens de alta resolução, optou-se pelo produto MODIS MOD13Q1 V6.1 para a construção da série histórica.
+Inicialmente, foram utilizadas imagens Sentinel-2 para a caracterização visual da região piloto e para os primeiros experimentos de processamento histórico do NDVI. Posteriormente, optou-se pelo produto MODIS MOD13Q1 V6.1 para a construção da série histórica.
 
 O produto MODIS disponibiliza o NDVI previamente calculado, permitindo reduzir a complexidade computacional sem alterar o período histórico analisado.
 
