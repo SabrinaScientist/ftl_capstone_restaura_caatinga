@@ -333,6 +333,19 @@ Mundo Novo — Bahia, Brasil. <!--{ style="font-size:11px;color:#786747;margin-t
 
 
 ## Restaura Caatinga
+<p style="font-size:11px; letter-spacing:3px; color:#759482; margin:20px 0 12px;">
+PROPÓSITO DO PROJETO
+</p>
+
+<p style="font-size:16px; line-height:1.9; color:#404a44; text-align:justify; margin:0 0 18px;">
+O projeto <strong style="color:#294c3d;">Restaura Caatinga</strong> propõe o desenvolvimento de um sistema inteligente de recomendação agroflorestal, capaz de identificar estratégias de intervenção adequadas às características ambientais, climáticas e pedológicas da região.
+</p>
+
+<p style="font-size:16px; line-height:1.9; color:#404a44; text-align:justify; margin:0 0 25px;">
+Por meio da integração entre ciência de dados, sensoriamento remoto e inteligência artificial, o projeto busca <strong style="color:#294c3d;">conciliar o desenvolvimento da atividade agropecuária com a conservação ambiental</strong>, contribuindo para a recuperação de áreas degradadas, o uso sustentável dos recursos naturais e a resiliência climática do semiárido brasileiro.
+</p>
+
+<hr style="border:0; border-top:1px solid #d0e0d6; margin:30px 0;">
 
 ### Metodologia
 
