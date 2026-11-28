@@ -484,7 +484,7 @@ Composição RGB do recorte espacial da área de estudo — Elaboração própri
 <hr style="border:0; border-top:1px solid #d0e0d6; margin:30px 0;">
 
 
-### Caracterização da área de estudo
+### Caracterização da Área de Estudo
 
 <p style="font-size:11px; letter-spacing:3px; text-align:center; color:#759482; margin:30px 0 8px;">
 PERFIL AMBIENTAL E PRODUTIVO
@@ -640,6 +640,49 @@ Fonte: NASA MODIS — Processamento de dados do projeto Restaura Caatinga. Elabo
 </p>
 
 <hr style="border:0; border-top:1px solid #d0e0d6; margin:35px 0;">
+
+
+### Caracterização pedológica
+
+<p style="font-size:11px; letter-spacing:3px; text-align:center; color:#759482; margin:30px 0 10px;">
+ANÁLISE ESPACIAL DOS SOLOS
+</p>
+
+<p style="font-size:23px; font-weight:600; text-align:center; color:#294c3d; margin:0 0 20px;">
+Distribuição das classes de solo
+</p>
+
+<p style="font-size:14px; line-height:1.8; color:#404a44; text-align:justify; margin:0 0 25px;">
+A caracterização pedológica foi realizada a partir da base vetorial de solos do IBGE, na escala de mapeamento 1:250.000. Os dados foram submetidos a um recorte geográfico correspondente aos limites da região piloto, utilizando as bibliotecas GeoPandas, Pyogrio e Shapely.
+</p>
+
+<div style="display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px; text-align:center; margin:30px 0;">
+  <div>
+    <p style="font-size:30px; font-weight:600; color:#294c3d; margin:0;">261</p>
+    <p style="font-size:12px; color:#64786b; margin:8px 0;">Unidades pedológicas</p>
+  </div>
+  <div>
+    <p style="font-size:30px; font-weight:600; color:#294c3d; margin:0;">7</p>
+    <p style="font-size:12px; color:#64786b; margin:8px 0;">Classes de solo</p>
+  </div>
+  <div>
+    <p style="font-size:30px; font-weight:600; color:#294c3d; margin:0;">0</p>
+    <p style="font-size:12px; color:#64786b; margin:8px 0;">Geometrias inválidas</p>
+  </div>
+</div>
+
+<img src="./assets/classes_solo.png" alt="Distribuição espacial das classes de solo no Submédio do São Francisco" style="width:100%; height:auto; display:block; margin:25px auto; border-radius:6px;">
+
+<p style="font-size:11px; font-style:italic; text-align:center; color:#64786b; margin:10px 0 25px;">
+Fonte: IBGE — Base Vetorial de Pedologia, escala 1:250.000. Processamento e elaboração própria, 2026.
+</p>
+
+<p style="font-size:14px; line-height:1.8; color:#404a44; text-align:justify; margin:20px 0;">
+A diversidade de solos evidencia a heterogeneidade ambiental da região. A incorporação das características pedológicas ao sistema de recomendação permite considerar as particularidades locais na seleção de estratégias de intervenção agroflorestal.
+</p>
+
+<hr style="border:0; border-top:1px solid #d0e0d6; margin:35px 0;">
+
 
 
 ### Resultado do modelo
