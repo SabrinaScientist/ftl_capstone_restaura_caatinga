@@ -642,7 +642,7 @@ Fonte: NASA MODIS — Processamento de dados do projeto Restaura Caatinga. Elabo
 <hr style="border:0; border-top:1px solid #d0e0d6; margin:35px 0;">
 
 
-### Caracterização pedológica
+### Caracterização Pedológica
 
 <p style="font-size:11px; letter-spacing:3px; text-align:center; color:#759482; margin:30px 0 10px;">
 ANÁLISE ESPACIAL DOS SOLOS
@@ -685,7 +685,81 @@ A diversidade de solos evidencia a heterogeneidade ambiental da região. A incor
 
 
 
-### Resultado do modelo
+### Resultado do Modelo
+
+
+<p style="font-size:11px; letter-spacing:3px; text-align:center; color:#759482; margin:25px 0 10px;">
+ESTRATÉGIAS DE INTERVENÇÃO
+</p>
+
+<p style="font-size:23px; font-weight:600; text-align:center; color:#294c3d; margin:0 0 20px;">
+Cenários de referência
+</p>
+
+<p style="font-size:14px; line-height:1.8; color:#404a44; text-align:justify; margin:0 0 25px;">
+Para a implementação da prova de conceito, foi construída uma base sintética composta por 12 cenários de referência, distribuídos igualmente entre três estratégias de intervenção ambiental e produtiva.
+</p>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:18px; margin:25px 0;">
+  <div style="background:#edf2e9; padding:22px; border-radius:6px; text-align:center;">
+    <p style="font-size:28px; font-weight:600; color:#294c3d; margin:0 0 8px;">IPF</p>
+    <p style="font-size:15px; font-weight:600; color:#294c3d; margin:0 0 12px;">
+      Sistema Silvipastoril
+    </p>
+    <p style="font-size:13px; line-height:1.7; color:#404a44;">
+      Integração entre produção pecuária e componente florestal.
+    </p>
+    <hr style="border:0; border-top:1px solid #ccd9c5; margin:20px 0;">
+    <p style="font-size:25px; font-weight:600; color:#527060; margin:0;">4</p>
+    <p style="font-size:11px; color:#64786b; margin:5px 0;">Cenários de referência</p>
+  </div>
+  <div style="background:#f4efe3; padding:22px; border-radius:6px; text-align:center;">
+    <p style="font-size:28px; font-weight:600; color:#8b6a36; margin:0 0 8px;">ILPF</p>
+    <p style="font-size:15px; font-weight:600; color:#8b6a36; margin:0 0 12px;">
+      Sistema Agrossilvipastoril
+    </p>
+    <p style="font-size:13px; line-height:1.7; color:#404a44;">
+      Integração entre agricultura, pecuária e componente florestal.
+    </p>
+    <hr style="border:0; border-top:1px solid #dfd4bb; margin:20px 0;">
+    <p style="font-size:25px; font-weight:600; color:#a68143; margin:0;">4</p>
+    <p style="font-size:11px; color:#64786b; margin:5px 0;">Cenários de referência</p>
+  </div>
+  <div style="background:#e1eae2; padding:22px; border-radius:6px; text-align:center;">
+    <p style="font-size:28px; font-weight:600; color:#294c3d; margin:0 0 8px;">RNA</p>
+    <p style="font-size:15px; font-weight:600; color:#294c3d; margin:0 0 12px;">
+      Regeneração Natural Assistida
+    </p>
+    <p style="font-size:13px; line-height:1.7; color:#404a44;">
+      Recuperação ecológica da vegetação nativa.
+    </p>
+    <hr style="border:0; border-top:1px solid #c0d2c2; margin:20px 0;">
+    <p style="font-size:25px; font-weight:600; color:#527060; margin:0;">4</p>
+    <p style="font-size:11px; color:#64786b; margin:5px 0;">Cenários de referência</p>
+  </div>
+</div>
+
+<div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:20px; text-align:center; margin:30px 0;">
+  <div>
+    <p style="font-size:32px; font-weight:600; color:#294c3d; margin:0;">12</p>
+    <p style="font-size:12px; color:#64786b; margin:8px 0;">Cenários sintéticos</p>
+  </div>
+  <div>
+    <p style="font-size:32px; font-weight:600; color:#294c3d; margin:0;">5</p>
+    <p style="font-size:12px; color:#64786b; margin:8px 0;">Características ambientais</p>
+  </div>
+</div>
+
+<p style="font-size:14px; line-height:1.8; color:#404a44; text-align:justify; margin:20px 0;">
+A escolha dessas estratégias contempla diferentes possibilidades de conciliação entre produção agropecuária e recuperação ambiental. Cada cenário foi estruturado com as mesmas cinco características ambientais utilizadas na consulta geográfica, permitindo ao algoritmo KNN recomendar intervenções com base na similaridade entre as condições locais e os padrões de referência.
+</p>
+
+<p style="font-size:11px; font-style:italic; text-align:center; color:#64786b; margin:20px 0;">
+Base experimental de referência — Elaboração própria, 2026.
+</p>
+
+<hr style="border:0; border-top:1px solid #d0e0d6; margin:35px 0;">
+
 
 <p style="font-size:11px; letter-spacing:3px; text-align:center; color:#759482; margin:25px 0 8px;">
 VALIDAÇÃO FUNCIONAL
